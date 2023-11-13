@@ -10,3 +10,5 @@ users.csv
 BeerAdvocate
 matched_beer_data
 RateBeer
+ratings.txt.gz
+reviews.txt.gz
