@@ -29,3 +29,9 @@ During the 2010s, gluten-free food made a breakthrough in popularity and was muc
     - Is there actual differences in the taste of gluten-free beers and comparable beers?
 
 ## Methods:
+
+## Proposed Timeline
+
+## Organization
+
+## Questions for TAs (optional)
