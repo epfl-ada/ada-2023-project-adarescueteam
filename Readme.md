@@ -1,6 +1,6 @@
 # Requirements
 
-P2 deliverable (done as a team): GitHub repository with the following:
+P2 deliverable (done as a team): GitHub repository with the following
 
 - Readme.md file containing the detailed project proposal (up to 1000 words). Your README.md should contain:
 
