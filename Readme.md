@@ -1,5 +1,7 @@
 # A beer tale: 2010's gluten-free bloom and stereotypes around gluten-free consumption.
 
+[Go to the Milestone P2 code](./code/P2_Milestone.ipynb)
+
 ## Abstract
 
 During the 2010s, gluten-free food made a breakthrough in popularity and was much more available in general shops. Interestingly, in France and Belgium, people came up with stereotypes regarding gluten-free consumers and products, describing such a trend as a flash in a pan. One of those stereotypes is about the persona of gluten-free buyers, often described as urban snobbish people who want to distinguish themselves socially by consuming non-usual products, called "Bobo" in European French-speaking areas. One other stereotype is about the quality of gluten-free products, which are often targeted as less tasteful or interesting from a gustatory point of view. Based on all these discussions, the project attempts to characterize the emergence of gluten-free products through the example of beers, as well as demystifying or validating the stereotypes associated with them.
