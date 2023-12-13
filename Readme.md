@@ -68,3 +68,16 @@ until 22.12.23 - Hand-in deadline, wrap-up the analysis, draw the conclusions fr
 | Alessandro Fulciniti | EDA, Data cleaning, Github website|
 | Yung-Cheng Jay Chiang | Sentiment analysis|
 | Emile Dorchies | Story, Ideation, EDA|
+
+
+12/13 discussion
+
+Storyline
+- Spatiotemporal analysis (almost done by Mathieu)
+  - Dataset: whole dataset (BA + RB) 
+- Rating analysis (Emile)
+  - Dataset: beer-type-matched gluten-free/non-gluten-free dataset (D2)
+  - Method: regression separately on each rating metrics
+  - Assumption: gluten-free beers taste worse 
+- Review analysis
+  - Dataset: all the reviews left by users in the gluten-free beer reviews
