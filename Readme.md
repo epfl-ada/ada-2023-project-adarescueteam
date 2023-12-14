@@ -68,3 +68,21 @@ until 22.12.23 - Hand-in deadline, wrap-up the analysis, draw the conclusions fr
 | Alessandro Fulciniti | EDA, Data cleaning, Github website|
 | Yung-Cheng Jay Chiang | Sentiment analysis|
 | Emile Dorchies | Story, Ideation, EDA|
+
+
+12/13 discussion
+
+Storyline
+- Spatiotemporal analysis (almost done by Mathieu)
+  - Dataset: whole dataset (BA + RB) 
+- Rating analysis (Emile)
+  - Dataset: beer-type-matched gluten-free/non-gluten-free dataset (D2)
+  - Method: regression separately on each rating metrics
+  - Assumption: gluten-free beers taste worse 
+- Review analysis
+  - Dataset: all the reviews left by unique users in the gluten-free beer reviews
+  - Keep only french and english
+  - Tokenization -> stop/space/punc cleaning -> stemming -> pos tag -> pick adj and adv
+  - Study the freq of these keywords (histogram, word cloud)
+  - Characterize unique users by the bag of keywords they use: `[good: 0.1, light: 0.2, ...]` -> TF-IDF matrix
+  - Dimension reduction/clustering -> characterize users according to the word they use
