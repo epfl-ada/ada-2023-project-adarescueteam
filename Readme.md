@@ -48,3 +48,4 @@ Example beer adjectives: https://describingwords.io/for/beer
 | Yung-Cheng Jay Chiang | EDA, Code cleaning, Visualizations, Website design     |
 | Emile Dorchies        | EDA, Story-Ideation and Execution, Ratings analysis     |
 
+
