@@ -1,5 +1,4 @@
 # Beer Quest - On Finding the "BOBO"
-2010's gluten-free bloom and stereotypes around gluten-free consumption.
 
 [Go to the datastory website](https://jay4biopz.github.io/adarescueteam-beerquest/story), or its [repo](https://github.com/Jay4BioPZ/adarescueteam-beerquest.git)
 
