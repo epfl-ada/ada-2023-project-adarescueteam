@@ -39,8 +39,12 @@ Example beer adjectives: https://describingwords.io/for/beer
 
 
 ## Organization within the team
-| Mathieu Charbonnier | EDA, Spatiotemporal analysis, Text analysis, Regressions |
-| Seif Hamed | EDA, Story-Ideation and Execution, Website ideation |
-| Alessandro Fulciniti | Data cleaning, Language processing, Website design |
-| Yung-Cheng Jay Chiang | EDA, Code cleaning, Visualizations, Website design |
-| Emile Dorchies | EDA, Story-Ideation and Execution, Ratings analysis |
+
+| Name                  | Expertise                                              |
+|-----------------------|--------------------------------------------------------|
+| Mathieu Charbonnier   | EDA, Spatiotemporal analysis, Text analysis, Regressions |
+| Seif Hamed            | EDA, Story-Ideation and Execution, Website ideation    |
+| Alessandro Fulciniti  | Data cleaning, Language processing, Website design      |
+| Yung-Cheng Jay Chiang | EDA, Code cleaning, Visualizations, Website design     |
+| Emile Dorchies        | EDA, Story-Ideation and Execution, Ratings analysis     |
+
